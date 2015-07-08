@@ -1,2 +1,3 @@
 # phylloscope
-phPhylloscope microframework
+
+Описание и документация будут позже...
